@@ -1,4 +1,4 @@
-# 👋 Hi, I'm ManhHa 🐱
+# 👋 Hi, I'm ManhHa  
 
 💻 Frontend & Cross-platform Developer (2+ years experience)  
 🚀 Building web, mobile & desktop apps with modern stacks
@@ -54,35 +54,37 @@ Other         0 secs          ░░░░░░░░░░░░░░░░�
 ## GitHub Stats
 
 <table>
-  <tbody>
-    <tr border="none">
-      <td width="50%" align="center">
-        <img
-          align="center"
-          src="https://github-readme-stats.vercel.app/api?username=manhha5842&theme=dark&show_icons=true&count_private=true"
-        />
-        <br /><br />
-        <img
-          alt="GitHub streak"
-          src="https://streak-stats.demolab.com?user=manhha5842&theme=dark"
-        />
-      </td>
-      <td width="50%" align="center">
-        <img
-          align="center"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=manhha5842&theme=dark&hide_border=false&layout=compact&langs_count=6"
-        />
-      </td>
-    </tr>
-  </tbody>
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=manhha5842&show_icons=true&hide_border=true&rank_icon=github"
+        alt="GitHub Stats"
+      />
+      <br /><br />
+      <img
+        src="https://streak-stats.demolab.com?user=manhha5842&hide_border=true"
+        alt="GitHub Streak"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=manhha5842&layout=compact&hide_border=true&langs_count=8"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
 </table>
 
 ## Connect with me
 
 <p align="center">
-  🔗 LinkedIn:
-  <a href="https://www.linkedin.com/in/nguyenvumanhha/" target="_blank">Nguyen Vu Manh Ha</a>
-  &nbsp;|&nbsp;
-  📧 Email: <a href="mailto:manhha584224@gmail.com">manhha584224@gmail.com</a>
+  <a href="https://www.linkedin.com/in/nguyenvumanhha/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Nguyen%20Vu%20Manh%20Ha-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:manhha584224@gmail.com">
+    <img src="https://img.shields.io/badge/Email-manhha584224%40gmail.com-EA4335?logo=gmail&logoColor=white" />
+  </a>
 </p>
+
 
