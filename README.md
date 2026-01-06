@@ -35,6 +35,18 @@
 
 ## ⏱️ Coding Activity (WakaTime)
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 12 hrs 51 mins
+
+TypeScript    11 hrs 51 mins  ███████████████████████░░   92.13 %
+HTML          32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
+Markdown      21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+JavaScript    3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Image (svg)   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
