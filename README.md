@@ -39,15 +39,38 @@
 
 ---
 
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=traitimconmeo&theme=default)
+## GitHub Stats
 
----
+<table>
+  <tbody>
+    <tr border="none">
+      <td width="50%" align="center">
+        <img
+          align="center"
+          src="https://github-readme-stats.vercel.app/api?username=manhha5842&theme=dark&show_icons=true&count_private=true"
+        />
+        <br /><br />
+        <img
+          alt="GitHub streak"
+          src="https://streak-stats.demolab.com?user=manhha5842&theme=dark"
+        />
+      </td>
+      <td width="50%" align="center">
+        <img
+          align="center"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=manhha5842&theme=dark&hide_border=false&layout=compact&langs_count=6"
+        />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=traitimconmeo&show_icons=true&hide_title=true)
+## Connect with me
 
----
+<p align="center">
+  🔗 LinkedIn:
+  <a href="https://www.linkedin.com/in/nguyenvumanhha/" target="_blank">Nguyen Vu Manh Ha</a>
+  &nbsp;|&nbsp;
+  📧 Email: <a href="mailto:manhha584224@gmail.com">manhha584224@gmail.com</a>
+</p>
 
-## 📫 Contact
-- 📧 Email: manhha584224@gmail.com
