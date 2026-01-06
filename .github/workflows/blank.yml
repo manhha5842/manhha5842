@@ -5,13 +5,17 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write   # cho phép action commit/push README
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.waka_df2de83d-6e9d-4015-83b5-720756c0e5d6 }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}          # ✅ bắt buộc để ghi README
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           TIME_RANGE: last_7_days
           LANG_COUNT: 6
           SHOW_TOTAL: true
