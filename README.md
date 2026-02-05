@@ -37,14 +37,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 18 hrs 46 mins
+Total Time: 16 hrs 14 mins
 
-TypeScript   16 hrs 53 mins  ██████████████████████▒░░   89.97 %
-Markdown     1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
-Kotlin       12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
-JSON         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-Groovy       6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-Python       5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+TypeScript        13 hrs 28 mins  ████████████████████▓░░░░   82.92 %
+Markdown          1 hr 13 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
+Groovy            24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+Java Properties   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+JSON              14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+XML               13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
 ```
 
 <!--END_SECTION:waka-->
