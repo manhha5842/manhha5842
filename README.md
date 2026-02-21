@@ -37,12 +37,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 44 mins
+Total Time: 0 secs
 
-JavaScript   1 hr 54 mins          █████████████████▒░░░░░░░   69.52 %
-Rust         35 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.84 %
-JSON         13 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
-TypeScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
