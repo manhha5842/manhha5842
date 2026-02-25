@@ -37,11 +37,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 41 mins
+Total Time: 3 hrs 27 mins
 
-TypeScript   41 mins               ████████████████████████▓   98.10 %
-Git Config   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
-JSON         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+TypeScript        2 hrs 25 mins         █████████████████▓░░░░░░░   70.03 %
+Text              46 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.61 %
+JavaScript        11 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
+Git Config        1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+JSON              1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Java Properties   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
