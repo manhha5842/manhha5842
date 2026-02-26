@@ -2,11 +2,12 @@ name: WakaTime Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    # 23:00 Vietnam time (UTC+7) = 16:00 UTC
+    - cron: "0 16 * * *"
   workflow_dispatch:
 
 permissions:
-  contents: write   # cho phép action commit/push README
+  contents: write
 
 jobs:
   update-readme:
@@ -14,8 +15,20 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}          # ✅ bắt buộc để ghi README
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
+          # Stats range
           TIME_RANGE: last_7_days
           LANG_COUNT: 6
           SHOW_TOTAL: true
+
+          # ✅ Adds "From: ... To: ..." title line
+          SHOW_TITLE: true
+
+          # Optional: show explicit time per language (hh:mm)
+          SHOW_TIME: true
+
+          # Optional: nicer blocks
+          BLOCKS: "⣀⣄⣤⣦⣶⣷⣿"
+          CODE_LANG: txt
