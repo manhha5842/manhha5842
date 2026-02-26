@@ -71,14 +71,16 @@ Designing intuitive interfaces with consistency across web, mobile, and desktop 
 <!--START_SECTION:waka-->
 
 ```txt
+From: 18 February 2026 - To: 25 February 2026
+
 Total Time: 5 hrs 43 mins
 
-TypeScript        3 hrs 31 mins         ███████████████▒░░░░░░░░░   61.52 %
-Text              46 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.66 %
-JSON              31 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
-HTML              18 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
-JavaScript        18 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
-Java Properties   14 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+TypeScript        3 hrs 31 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀   61.52 %
+Text              46 mins               ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.66 %
+JSON              31 mins               ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.27 %
+HTML              18 mins               ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.48 %
+JavaScript        18 mins               ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.28 %
+Java Properties   14 mins               ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.11 %
 ```
 
 <!--END_SECTION:waka-->
