@@ -75,10 +75,10 @@ From: 18 February 2026 - To: 25 February 2026
 
 Total Time: 5 hrs 43 mins
 
-TypeScript        3 hrs 31 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀   61.52 %
+TypeScript        3 hrs 31 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀   61.52 %ss
 Text              46 mins               ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.66 %
 JSON              31 mins               ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.27 %
-HTML              18 mins               ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.48 %
+HTML              18 mins               ⣿⣤⣀⣀⣀⣀ss⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.48 %
 JavaScript        18 mins               ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.28 %
 Java Properties   14 mins               ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.11 %
 ```
@@ -97,5 +97,10 @@ Java Properties   14 mins               ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ## Connect with me
 
-<p align="center">🔗 LinkedIn: <a href="[https://www.linkedin.com/in/johndoe](https://www.linkedin.com/in/nguyenvumanhha/)" target="_blank">Manh Ha</a> Email: manhha5842@gmail.com</p>
+🔗 LinkedIn: <a href="[https://www.linkedin.com/in/johndoe]()" target="_blank">Manh Ha</a> 
+Email: manhha5842@gmail.com
+
+📧 **Email:** [manhha584224@gnauk,com](mailto:manhha584224@gmail.com)  
+💼 **LinkedIn:** [Nguyen Vu Manh Ha](https://www.linkedin.com/in/nguyenvumanhha/)  
+🐙 **GitHub:** [manhha5842](https://github.com/manhha5842)
 
