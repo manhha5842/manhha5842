@@ -97,9 +97,6 @@ Java Properties   14 mins               ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ## Connect with me
 
-🔗 LinkedIn: <a href="[https://www.linkedin.com/in/johndoe]()" target="_blank">Manh Ha</a> 
-Email: manhha5842@gmail.com
-
 📧 **Email:** [manhha584224@gnauk,com](mailto:manhha584224@gmail.com)  
 💼 **LinkedIn:** [Nguyen Vu Manh Ha](https://www.linkedin.com/in/nguyenvumanhha/)  
 🐙 **GitHub:** [manhha5842](https://github.com/manhha5842)
