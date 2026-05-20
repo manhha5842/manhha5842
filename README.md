@@ -97,7 +97,7 @@ Markdown      39 mins               ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ## Connect with me
 
-📧 **Email:** [manhha584224@gnauk,com](mailto:manhha584224@gmail.com)  
+📧 **Email:** [manhha584224@gmail,com](mailto:manhha584224@gmail.com)  
 💼 **LinkedIn:** [Nguyen Vu Manh Ha](https://www.linkedin.com/in/nguyenvumanhha/)  
 🐙 **GitHub:** [manhha5842](https://github.com/manhha5842)
 
